@@ -28,7 +28,7 @@ Most of my professional work lives on proprietary hardware and cannot be shared 
 
 **Trainee Engineer — System Software @ MosChip** *(Jun 2025 — Present)*
 
-Independently owned 3 production projects end-to-end — from architecture through client delivery. Key work includes:
+Independently owned and delivered multiple projects end to end — including a client-facing production deployment and a production-ready POC. Key work includes:
 
 - Designed a **generic LiDAR abstraction layer** in C++ using polymorphism and inheritance — sensor-agnostic GStreamer source plugin with build-time SDK selection via Meson, keeping binaries lean on constrained hardware
 - Built a **real-time person detection pipeline** on NVIDIA Jetson Orin Nano — fusing CS20 LiDAR depth data with DeepStream ML inference (PeopleNet, TensorRT INT8) to display per-person physical distance on live video
